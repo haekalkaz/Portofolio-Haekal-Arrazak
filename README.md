@@ -1,4 +1,4 @@
 # Web-Portofolio
 Tugas HTML Membuat Web Portofolio
-NIM : 11210934
-Class B Afternoon 
+- NIM : 11210934
+- Class B Afternoon 
